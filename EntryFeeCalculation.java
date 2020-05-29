@@ -26,7 +26,7 @@ public class EntryFeeCalculation
         else if(age >= 16 && age<=130){
             result = "2000원";
         }
-            
+        
         return result;
     }
 }
